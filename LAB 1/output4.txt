@@ -1,0 +1,2 @@
+[[90, 96, 105], [216, 231, 252], [342, 366, 399]]
+The worst case time complexity of the program is O(n^3)
