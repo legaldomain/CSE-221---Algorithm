@@ -1,0 +1,2 @@
+shortest path: Motijheel -> A -> B -> G -> J -> K -> L -> MOGHBAZAR
+Sum of traffic levels form Motijheel to MOGHBAZAR 22
